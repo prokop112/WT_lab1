@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="вт:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="вт.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/by/bsuir/classes_and_objects/task9/classes/by/bsuir/classes_and_objects/task9/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="вт" />
+    </root>
+  </artifact>
+</component>
